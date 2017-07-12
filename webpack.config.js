@@ -23,6 +23,7 @@ module.exports = {
         compress: true,
         port: PORT
     },
+
     module: {
         rules: [
             {
